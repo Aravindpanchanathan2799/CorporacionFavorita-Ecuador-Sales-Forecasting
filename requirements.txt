@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+prophet
+pmdarima
+scikit-learn
+lightgbm
+xgboost
+tensorflow
+torch
+category_encoders
+scipy
+ml_metrics
